@@ -1,0 +1,4 @@
+OrderID,CustomerID,EmployeeID,OrderDate,ShipperID
+10308,2,7,18-09-1996,3
+10309,37,3,19-09-1996,1
+10310,77,8,20-09-1996,2
